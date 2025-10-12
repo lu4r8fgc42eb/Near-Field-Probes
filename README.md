@@ -54,3 +54,5 @@ This work exists because of the contribution of other amazing designers and crea
 [PCB kit in Altium](https://github.com/ketszim97/NearField_PCB_Probes)
 
 [OpenFieldProbe](https://github.com/goopypanther/OpenFieldProbe)
+
+<!-- Auto-update: 2025-10-12T12:25:35.602528 -->
